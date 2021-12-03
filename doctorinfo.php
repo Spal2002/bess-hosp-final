@@ -76,7 +76,7 @@
 			<footer>
 				<ul>
 					<li>Contact number: 080-23450917, 080-23450918, 080-23450919, 080-23334565</li>
-					<li>&copy; NMIT Foundation for Medical Education and Research (NMITMER). All rights reserved.</li>
+					<li>&copy; BESS Foundation for Medical Education and Research. All rights reserved.</li>
 				</ul>
 			<footer>
 		</div>';
