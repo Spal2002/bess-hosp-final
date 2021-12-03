@@ -29,7 +29,7 @@
 		echo '<div id = "home1">
 			<header>
 				<img src = "img/logo.png" alt = "Logo" />
-   				<h1>NMIT HOSPITALS</h1>
+   				<h1>BESS HOSPITALS</h1>
 				<h2>A One-Stop Solution To Keep You Healthy</h2>
 			</header>
 		</div>';
@@ -57,7 +57,7 @@
 			<footer>
 				<ul>
 					<li>Contact number: 080-23450917, 080-23450918, 080-23450919, 080-23334565</li>
-					<li>&copy; NMIT Foundation for Medical Education and Research (NMITMER). All rights reserved.</li>
+					<li>&copy; BESS Foundation for Medical Education and Research . All rights reserved.</li>
 				</ul>
 			<footer>
 		</div>';
